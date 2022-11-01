@@ -1,9 +1,9 @@
-# YCQL-01
+# Security Practices
 
-YCQL Development Fundamentals
+YBU Security Practices
 
 ---
-This repository contains the notebook files for YCQL Development Fundamentals, a free course that is soon-to-be available at [university.yugabyte.com](
+This repository contains the notebook files for YugabyteDB Anywhere Security Practices, a free course that is soon-to-be available at [university.yugabyte.com](
 https://university.yugabyte.com).
 
 Using Gitpod, you can run the notebook files in an on-demand VS Code, browser based environment.
